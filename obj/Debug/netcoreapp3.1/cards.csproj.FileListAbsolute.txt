@@ -1,0 +1,13 @@
+C:\Users\madis\Documents\coding_dojo\C#\cards\bin\Debug\netcoreapp3.1\cards.exe
+C:\Users\madis\Documents\coding_dojo\C#\cards\bin\Debug\netcoreapp3.1\cards.deps.json
+C:\Users\madis\Documents\coding_dojo\C#\cards\bin\Debug\netcoreapp3.1\cards.runtimeconfig.json
+C:\Users\madis\Documents\coding_dojo\C#\cards\bin\Debug\netcoreapp3.1\cards.runtimeconfig.dev.json
+C:\Users\madis\Documents\coding_dojo\C#\cards\bin\Debug\netcoreapp3.1\cards.dll
+C:\Users\madis\Documents\coding_dojo\C#\cards\bin\Debug\netcoreapp3.1\cards.pdb
+C:\Users\madis\Documents\coding_dojo\C#\cards\obj\Debug\netcoreapp3.1\cards.csprojAssemblyReference.cache
+C:\Users\madis\Documents\coding_dojo\C#\cards\obj\Debug\netcoreapp3.1\cards.AssemblyInfoInputs.cache
+C:\Users\madis\Documents\coding_dojo\C#\cards\obj\Debug\netcoreapp3.1\cards.AssemblyInfo.cs
+C:\Users\madis\Documents\coding_dojo\C#\cards\obj\Debug\netcoreapp3.1\cards.csproj.CoreCompileInputs.cache
+C:\Users\madis\Documents\coding_dojo\C#\cards\obj\Debug\netcoreapp3.1\cards.dll
+C:\Users\madis\Documents\coding_dojo\C#\cards\obj\Debug\netcoreapp3.1\cards.pdb
+C:\Users\madis\Documents\coding_dojo\C#\cards\obj\Debug\netcoreapp3.1\cards.genruntimeconfig.cache
